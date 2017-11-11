@@ -6,3 +6,4 @@ Created new JavaScript file
 Updated HTML File
 Updated CSS file
 Created new main CSS file
+Updated JavaScript file
